@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://duvgy3vu2cyxo"]
+
+[ext_resource type="Script" uid="uid://byimiscdhl5q7" path="res://scripts/stopwatch.gd" id="1_5iol8"]
+
+[node name="stopwatch" type="Node" groups=["stopwatch"]]
+script = ExtResource("1_5iol8")
